@@ -1,0 +1,2 @@
+yours3domain.s3.ap-northeast-1.amazonaws.com
+yours3domain.s3.ap-northeast-2.amazonaws.com
